@@ -1,4 +1,4 @@
-puzzle
+Puzzle
 ======
 
 Repositório do Projeto "Puzzle" da disciplina de Linguaguem de Programação Orientada à Objetos do Curso de 
