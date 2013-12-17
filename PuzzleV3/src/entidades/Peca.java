@@ -80,7 +80,7 @@ public class Peca {
 	
 	/**
 	 * Atribui valor ao atributo coordenada.
-	 * @param Um nova coordenada da peça.
+	 * @param Coordenada Um nova coordenada da peça.
 	 * @see Coordenada
 	 */
 	public void setCoordenada(Coordenada coordenada) {
