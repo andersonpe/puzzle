@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imagens>
+	<opcao>
+		<id>1</id>
+		<titulo>Navio</titulo>
+		<arquivo>01.jpg</arquivo>
+		<descricao>Navio no porto.</descricao>
+		<source>Flickr.</source>
+	</opcao>
+	<opcao>
+		<id>2</id>
+		<titulo>Aviões</titulo>
+		<arquivo>02.jpg</arquivo>
+		<descricao>Aviões da empresa Thomas Cook.</descricao>
+		<source>Flickr.</source>
+	</opcao>
+		<opcao>
+		<id>3</id>
+		<titulo>Igreja</titulo>
+		<arquivo>03.jpg</arquivo>
+		<descricao>Vista de uma igreja em dia com tempo fechado.</descricao>
+		<source>Flickr.</source>
+	</opcao>
+	<opcao>
+		<id>4</id>
+		<titulo>Lago</titulo>
+		<arquivo>04.jpg</arquivo>
+		<descricao>Vista de uma lado em dia nublado.</descricao>
+		<source>Flickr.</source>
+	</opcao>
+	<opcao>
+		<id>5</id>
+		<titulo>Pôr-do-sol</titulo>
+		<arquivo>05.jpg</arquivo>
+		<descricao>Vista do pôr-so-sul numa cidade norte-americana.</descricao>
+		<source>Flick.</source>
+	</opcao>
+	<opcao>
+		<id>6</id>
+		<titulo>Nokia 1520</titulo>
+		<arquivo>06.jpg</arquivo>
+		<descricao>Foto vazada em Setembro do então suposto phabet na Nokia.</descricao>
+		<source>Mobile Experts / @evleaks.</source>
+	</opcao>
+	<opcao>
+		<id>7</id>
+		<titulo>New York City</titulo>
+		<arquivo>07.jpg</arquivo>
+		<descricao>Famosos táxis da cidade que nunca dorme.</descricao>
+		<source>Flickr.</source>
+	</opcao>
+	<opcao>
+		<id>8</id>
+		<titulo>Eclusa</titulo>
+		<arquivo>08.jpg</arquivo>
+		<descricao>Eclusa rotativa em Falkrik, Escócia.</descricao>
+		<source>Flickr.</source>
+	</opcao>
+	<opcao>
+		<id>9</id>
+		<titulo>Fontes</titulo>
+		<arquivo>09.jpg</arquivo>
+		<descricao>Pessoas observando fontes de água nos Estados Unidos.</descricao>
+		<source>Flickr.</source>
+	</opcao>
+	<opcao>
+		<id>10</id>
+		<titulo>Pecas de computadores</titulo>
+		<arquivo>10.jpg</arquivo>
+		<descricao>Peças de computadores numa escola na Polinésia Francesa.</descricao>
+		<source>Phillipe Reichert / Your Shot from National Geographic Society.</source>
+	</opcao>
+	<opcao>
+		<id>11</id>
+		<titulo>Montanhas de Utah</titulo>
+		<arquivo>11.jpg</arquivo>
+		<descricao>Arches National Park, Moab, Utah, EUA.</descricao>
+		<source>Stephen Alvarez / National Geographic Society in partnership with Nokia.</source>
+	</opcao>
+	<opcao>
+		<id>12</id>
+		<titulo>Rodovia no Arizona.</titulo>
+		<arquivo>12.jpg</arquivo>
+		<descricao>Monument Valley, Arizona, EUA.</descricao>
+		<source>Stephen Alvarez / National Geographic Society in partnership with Nokia.</source>
+	</opcao>
+	<opcao>
+		<id>13</id>
+		<titulo>Alpinista</titulo>
+		<arquivo>13.jpg</arquivo>
+		<descricao>Tamara Hastie escala montanha em Paradise Forks, Williams, Arizona.</descricao>
+		<source>Stephen Alvarez / National Geographic Society in partnership with Nokia.</source>
+	</opcao>	
+	<opcao>
+		<id>14</id>
+		<titulo>Resgate</titulo>
+		<arquivo>14.jpg</arquivo>
+		<descricao>Membros da Marinha americana resgatam piloto de aeronave.</descricao>
+		<source>Jack Fletcher / National Geographic Official Tumblr</source>
+	</opcao>
+	<opcao>
+		<id>15</id>
+		<titulo>Construção indiana</titulo>
+		<arquivo>15.jpg</arquivo>
+		<descricao>Construção da barragem indiana de Nagarjuna Sagar, em 1963.</descricao>
+		<source>John Scofield / National Geographic Official Tumblr</source>
+	</opcao>										
+</imagens>
+
+
+
