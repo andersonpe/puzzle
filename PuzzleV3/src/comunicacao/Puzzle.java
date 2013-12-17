@@ -7,7 +7,7 @@ import controladores.ControladorJogo;
 import entidades.Jogador;
 /**
  * Classe responsável pela comunicação com o usuário.
- * @author Andy
+ * @author Anderson Pereira (Andy)
  *
  */
 public class Puzzle {
